@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvecrypt",
+        "uuid": 5293730,
+        "checksum": "ig1hpj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
